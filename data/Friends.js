@@ -11,7 +11,7 @@ const Friends = new Schema({
         type: String,
         required: true
     },
-    lastNmae: {
+    lastName: {
         type:String,
         required: true
     },
